@@ -49,3 +49,8 @@ public class Estudiantes : Personas
 {
     public String? Carnet = "";
 }
+
+public class Trabajadores : Personas
+{
+    public string? Cedula = "";
+}
