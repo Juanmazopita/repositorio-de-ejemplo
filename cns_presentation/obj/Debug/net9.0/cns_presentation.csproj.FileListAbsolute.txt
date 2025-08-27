@@ -1,0 +1,15 @@
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\bin\Debug\net9.0\cns_presentation.exe
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\bin\Debug\net9.0\cns_presentation.deps.json
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\bin\Debug\net9.0\cns_presentation.runtimeconfig.json
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\bin\Debug\net9.0\cns_presentation.dll
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\bin\Debug\net9.0\cns_presentation.pdb
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.AssemblyInfoInputs.cache
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.AssemblyInfo.cs
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.sourcelink.json
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.dll
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\refint\cns_presentation.dll
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.pdb
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.genruntimeconfig.cache
+C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\ref\cns_presentation.dll
