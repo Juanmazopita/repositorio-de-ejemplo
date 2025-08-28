@@ -13,3 +13,11 @@ C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9
 C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.pdb
 C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.genruntimeconfig.cache
 C:\Users\salak401\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\ref\cns_presentation.dll
+C:\Users\juang\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.AssemblyInfo.cs
+C:\Users\juang\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.sourcelink.json
+C:\Users\juang\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.dll
+C:\Users\juang\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\refint\cns_presentation.dll
+C:\Users\juang\Desktop\repositorio-de-ejemplo\cns_presentation\obj\Debug\net9.0\cns_presentation.pdb

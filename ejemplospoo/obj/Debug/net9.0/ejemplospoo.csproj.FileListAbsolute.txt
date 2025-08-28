@@ -1,0 +1,15 @@
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\ejemplospoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\ejemplospoo.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\ejemplospoo.AssemblyInfo.cs
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\ejemplospoo.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\ejemplospoo.sourcelink.json
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\bin\Debug\net9.0\ejemplospoo.exe
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\bin\Debug\net9.0\ejemplospoo.deps.json
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\bin\Debug\net9.0\ejemplospoo.runtimeconfig.json
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\bin\Debug\net9.0\ejemplospoo.dll
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\bin\Debug\net9.0\ejemplospoo.pdb
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\ejemplospoo.dll
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\refint\ejemplospoo.dll
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\ejemplospoo.pdb
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\ejemplospoo.genruntimeconfig.cache
+C:\Users\juang\Desktop\repositorio-de-ejemplo\ejemplospoo\obj\Debug\net9.0\ref\ejemplospoo.dll
